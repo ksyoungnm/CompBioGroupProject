@@ -1,0 +1,9 @@
+blah
+c	a	1
+c	b	0.5
+c	d	0.3
+c	e	0.6
+c	f	0.2
+d	e	0.8
+f	g	0.2
+g	h	0.2
