@@ -1,0 +1,2 @@
+# CompBioGroupProject
+This is my code for the independent project for Anna Ritz's Computational Systems Biology course in the Fall of 2019. The goal of this project was to use the protein-protein interaction network for *D. melanogaster* to predict novel regulators of non-muscle myosin II. I implemented a Bayesian smoothing process over the whole graph, which can be read about more deeply in the matrix and distribution files. 
